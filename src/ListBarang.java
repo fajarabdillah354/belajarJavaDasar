@@ -3,7 +3,7 @@ import java.util.*;
 public class ListBarang {
 
     public static void main(String[] args) {
-        tampilkanMenuBarang();
+        testHapusBarang();
     }
 
     public static String[] list = new String[10];
