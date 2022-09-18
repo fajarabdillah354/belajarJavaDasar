@@ -29,5 +29,31 @@
 <li>terneryOperator</li>
 <li>While</li>
 </ul>
-
+<h2>Project Structur(Clien Architecture)</h2>
+<ol>
+    <li>
+        <h4>Entities</h4>
+        <p>
+            Entities adalah tempat untuk menaruh data
+        </p>
+    </li>
+    <li>
+        <h4>Repository</h4>
+        <p>
+            Repository adalah tempat menaruh data-data aplikasi yang akan kita buat termasuk DBMS atau database
+        </p>
+    </li>
+    <li>
+        <h4>Service</h4>
+        <p>
+            Service adalah tempat menaruh logic-logic dari aplikasi kita
+        </p>
+    </li>
+    <li>
+        <h4>Interface</h4>
+        <p>
+            interface adalah tampilan paling luar aplikasi kita yang dapat dilihat oleh user ketika menggunakannya
+        </p>
+    </li>
+</ol>
 
